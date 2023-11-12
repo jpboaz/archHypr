@@ -1,0 +1,16 @@
+[2023-11-04 14:56:58.003] [info] Using configuration file /home/boazju/.config/waybar/config
+[2023-11-04 14:56:58.004] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2023-11-04 14:56:58.004] [info] Using CSS file /home/boazju/.config/waybar/style.css
+
+(waybar:7896): Gtk-WARNING **: 14:56:58.004: Theme parsing error: style.css:3:18: Not using units is deprecated. Assuming 'px'.
+[2023-11-04 14:56:58.010] [warning] Mapping is not an object
+[2023-11-04 14:56:58.010] [info] Hyprland IPC starting
+sh: line 1: waybar-module-pacman-updates: command not found
+[2023-11-04 14:56:58.012] [error] updates stopped unexpectedly, is it endless?
+[2023-11-04 14:56:58.015] [warning] module backlight: Disabling module "backlight", No backlight found
+[2023-11-04 14:56:58.015] [warning] No battery named BAT0
+[2023-11-04 14:56:58.140] [info] Bar configured (width: 1920, height: 40) for output: HDMI-A-1
+sh: line 1: pavucontrol: command not found
+sh: line 1: pavucontrol: command not found
+sh: line 1: pavucontrol: command not found
+sh: line 1: pavucontrol: command not found
